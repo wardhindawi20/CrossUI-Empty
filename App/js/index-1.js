@@ -23,8 +23,8 @@ xui.Class('App', 'xui.Module',{
             append(
                 xui.create("xui.UI.Input")
                 .setHost(host,"xui_ui_input6")
-                .setLeft("20.571428571428573em")
-                .setTop("18.285714285714285em")
+                .setLeft("21.333333333333332em")
+                .setTop("23.61904761904762em")
                 .setWidth("17.98095238095238em")
                 .setLabelSize("6em")
                 .setLabelCaption("User Name")
@@ -33,8 +33,8 @@ xui.Class('App', 'xui.Module',{
             append(
                 xui.create("xui.UI.Input")
                 .setHost(host,"xui_ui_input7")
-                .setLeft("20.571428571428573em")
-                .setTop("20.571428571428573em")
+                .setLeft("21.333333333333332em")
+                .setTop("25.904761904761905em")
                 .setWidth("17.98095238095238em")
                 .setLabelSize("6em")
                 .setLabelCaption("Password")
@@ -43,8 +43,8 @@ xui.Class('App', 'xui.Module',{
             append(
                 xui.create("xui.UI.Button")
                 .setHost(host,"xui_ui_button6")
-                .setLeft("34.285714285714285em")
-                .setTop("22.857142857142858em")
+                .setLeft("35.04761904761905em")
+                .setTop("28.19047619047619em")
                 .setWidth("4.266666666666667em")
                 .setCaption("Login")
                 .setValue("Login")
@@ -53,8 +53,8 @@ xui.Class('App', 'xui.Module',{
             append(
                 xui.create("xui.UI.Image")
                 .setHost(host,"xui_ui_image6")
-                .setLeft("28.19047619047619em")
-                .setTop("9.142857142857142em")
+                .setLeft("28.952380952380953em")
+                .setTop("14.476190476190476em")
                 .setWidth("5.6380952380952385em")
                 .setHeight("5.6380952380952385em")
                 .setSrc("{xui.ini.img_pic}")
